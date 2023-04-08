@@ -1,4 +1,45 @@
 /*
 Esta es la paleta de colores de mi proyecto
-
+primario:       #000000
+secundario:     #212a00
+terciario:      #4c5900
+subtitulo:      #868e00
+light:          #cdc900
+background:     #fffbce
 */
+.body-index{
+    background-color: #fffbce;
+}
+.boton-index{
+    display: flex;
+    justify-content: center;
+}
+.text-center{
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+}
+.parrafo{
+    font-style: italic;
+    color: #868e00;
+}
+.bienvenida{
+    color: #212a00;
+}
+.presentado{
+    color:  #4c5900;
+}
+.bg-color{
+    background-color: #cdc900;
+}
+.text-link{
+    color: #cdc900;
+}
+.text-boton{
+    background-color: #cdc900;
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.boton-index{
+    display: flex;
+    color: white;
+}
